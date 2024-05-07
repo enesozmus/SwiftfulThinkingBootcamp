@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DF6BDF102BEA395E003CFEDE /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6BDF0F2BEA395E003CFEDE /* ColorsBootcamp.swift */; };
+		DF6BDF122BEA4101003CFEDE /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6BDF112BEA4101003CFEDE /* GradientsBootcamp.swift */; };
 		DFBFBA942BEA1FBD00444846 /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBFBA932BEA1FBD00444846 /* SwiftfulThinkingBootcampApp.swift */; };
 		DFBFBA962BEA1FBD00444846 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBFBA952BEA1FBD00444846 /* ContentView.swift */; };
 		DFBFBA982BEA1FBE00444846 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFBFBA972BEA1FBE00444846 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		DF6BDF0F2BEA395E003CFEDE /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
+		DF6BDF112BEA4101003CFEDE /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 		DFBFBA902BEA1FBD00444846 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFBFBA932BEA1FBD00444846 /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
 		DFBFBA952BEA1FBD00444846 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				DFBFBA972BEA1FBE00444846 /* Assets.xcassets */,
 				DF6BDF0F2BEA395E003CFEDE /* ColorsBootcamp.swift */,
 				DFBFBA952BEA1FBD00444846 /* ContentView.swift */,
+				DF6BDF112BEA4101003CFEDE /* GradientsBootcamp.swift */,
 				DFBFBA992BEA1FBE00444846 /* Preview Content */,
 				DFBFBAA52BEA203600444846 /* Root */,
 				DFBFBAA32BEA202400444846 /* ShapesBootcamp.swift */,
@@ -154,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF6BDF122BEA4101003CFEDE /* GradientsBootcamp.swift in Sources */,
 				DF6BDF102BEA395E003CFEDE /* ColorsBootcamp.swift in Sources */,
 				DFBFBAA42BEA202400444846 /* ShapesBootcamp.swift in Sources */,
 				DFBFBA962BEA1FBD00444846 /* ContentView.swift in Sources */,
