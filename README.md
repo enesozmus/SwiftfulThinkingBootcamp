@@ -21,3 +21,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > VStack, HStack, ZStack, default spacing, alignment, spacing
 > - ⚙️ [Padding](./SwiftfulThinkingBootcamp/PaddingBootcamp.swift)
 >  > .padding(), .all, .vertical, .horizontal, .leading etc. 
+> - ⚙️ [Spacer](./SwiftfulThinkingBootcamp/SpacerBootcamp.swift)
+>  > spacer(), "an adaptive view with no content" that expands as much as it can 
