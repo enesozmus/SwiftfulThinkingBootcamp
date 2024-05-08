@@ -10,7 +10,7 @@ import SwiftUI
 struct BackgroundAndOverlaysBootcamp: View {
     var body: some View {
         VStack(spacing: 60) {
-            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+            Text("Hello, World!")
                 .background(
                     //.red
                     //LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing)
@@ -19,13 +19,13 @@ struct BackgroundAndOverlaysBootcamp: View {
                 )
             
             
-            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+            Text("Hello, World!")
                 .font(.footnote)
                 .background(
                     Circle().fill(.red)
                 )
             
-            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+            Text("Hello, World!")
                 .background(
                     Circle()
                         .fill(.blue)
@@ -37,7 +37,7 @@ struct BackgroundAndOverlaysBootcamp: View {
                         .frame(width: 75, height: 75, alignment: .center)
                 )
             
-            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+            Text("Hello, World!")
                 .background(
                     Circle()
                         .fill(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
