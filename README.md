@@ -19,3 +19,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > .background(), .overlay()
 > - ⚙️ [Stacks](./SwiftfulThinkingBootcamp/StacksBootcamp.swift)
 >  > VStack, HStack, ZStack, default spacing, alignment, spacing
+> - ⚙️ [Padding](./SwiftfulThinkingBootcamp/PaddingBootcamp.swift)
+>  > .padding(), .all, .vertical, .horizontal, .leading etc. 
