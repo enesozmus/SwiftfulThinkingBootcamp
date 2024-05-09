@@ -27,3 +27,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > init(), self, enum
 > - ⚙️ [ForEach](./SwiftfulThinkingBootcamp/ForEachBootcamp.swift)
 >  > ForEach() { }, 0..<10, . index in, \(index), [index], .indices
+> - ⚙️ [ScrollView](./SwiftfulThinkingBootcamp/ScrollViewBootcamp.swift)
+>  > ScrollView(), .vertical, .horizontal, showsIndicators
