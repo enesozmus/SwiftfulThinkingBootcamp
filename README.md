@@ -36,4 +36,4 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 > - ⚙️ [State](./SwiftfulThinkingBootcamp/StateBootcamp.swift)
 >  > @State
 > - ⚙️ [Extracting functions and subviews](./SwiftfulThinkingBootcamp/ExtractingBootcamp.swift)
->  > func name(){...}, :some View
+>  > func name(){...}, :some View, @State, struct name: View, @Binding

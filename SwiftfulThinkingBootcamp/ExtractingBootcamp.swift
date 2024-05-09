@@ -45,6 +45,7 @@ struct ExtractingBootcamp: View {
                     .background(.black)
                     .cornerRadius(10.0)
             })
+            MyItemm(backgroundColor: $backgroundColor)
         }
     }
     
@@ -60,4 +61,29 @@ struct ExtractingBootcamp: View {
 
 #Preview {
     ExtractingBootcamp()
+}
+
+// 🟢
+struct MyItemm: View {
+    
+    // 🟢
+    @Binding var backgroundColor: Color
+    
+    var body: some View {
+        Button(action: {
+            makeBlack()
+        }, label: {
+            Text("Make black")
+                .font(.headline)
+                .foregroundColor(.white)
+                .padding()
+                .background(.black)
+                .cornerRadius(10.0)
+        })
+    }
+    
+    // 🟢
+    func makeBlack() {
+        self.backgroundColor = .black
+    }
 }
