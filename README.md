@@ -33,5 +33,7 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Lazy Horizontal Grid, Lazy Horizontal Stack, columns, alignment, spacing, pinnedViews, [GridItem], size, .adaptive, .fixed, .flexible, spacing, alignment
 > - ⚙️ [Buttons](./SwiftfulThinkingBootcamp/ButtonsBootcamp.swift)
 >  > Button(""){}, Button(action: /*@START_MENU_TOKEN@*/{}/*@END_MENU_TOKEN@*/, label: {}), .accentColor(), padding(), .padding(.horizontal, ), .background(), .stroke()
-> - ⚙️ [StateBootcamp](./SwiftfulThinkingBootcamp/StateBootcamp.swift)
+> - ⚙️ [State](./SwiftfulThinkingBootcamp/StateBootcamp.swift)
 >  > @State
+> - ⚙️ [Extracting functions and subviews](./SwiftfulThinkingBootcamp/ExtractingBootcamp.swift)
+>  > func name(){...}, :some View
