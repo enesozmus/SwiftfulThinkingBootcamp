@@ -27,6 +27,7 @@
 		DFCA97462BEBD5DF007C65B6 /* InitializersBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCA97452BEBD5DF007C65B6 /* InitializersBootcamp.swift */; };
 		DFFAD4582BECCF3000D78829 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAD4572BECCF3000D78829 /* ForEachBootcamp.swift */; };
 		DFFAD45A2BECEA0900D78829 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAD4592BECEA0900D78829 /* ScrollViewBootcamp.swift */; };
+		DFFAD45C2BECF1F000D78829 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAD45B2BECF1F000D78829 /* GridBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		DFCA97452BEBD5DF007C65B6 /* InitializersBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializersBootcamp.swift; sourceTree = "<group>"; };
 		DFFAD4572BECCF3000D78829 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		DFFAD4592BECEA0900D78829 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
+		DFFAD45B2BECF1F000D78829 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				DF6BDF172BEA7AF6003CFEDE /* FrameBootcamp2.swift */,
 				DF6BDF1B2BEA7E4E003CFEDE /* FrameBootcamp3.swift */,
 				DF6BDF112BEA4101003CFEDE /* GradientsBootcamp.swift */,
+				DFFAD45B2BECF1F000D78829 /* GridBootcamp.swift */,
 				DF6BDF132BEA6246003CFEDE /* IconsBootcamp.swift */,
 				DF6BDF152BEA6AB4003CFEDE /* ImagesBootcamp.swift */,
 				DFCA97452BEBD5DF007C65B6 /* InitializersBootcamp.swift */,
@@ -203,6 +206,7 @@
 				DF0F4D802BEBA4EB0022AE85 /* PaddingBootcamp.swift in Sources */,
 				DF6BDF182BEA7AF6003CFEDE /* FrameBootcamp2.swift in Sources */,
 				DF0F4D822BEBAF890022AE85 /* SpacerBootcamp.swift in Sources */,
+				DFFAD45C2BECF1F000D78829 /* GridBootcamp.swift in Sources */,
 				DFBFBAA42BEA202400444846 /* ShapesBootcamp.swift in Sources */,
 				DFBFBA962BEA1FBD00444846 /* ContentView.swift in Sources */,
 				DFFAD4582BECCF3000D78829 /* ForEachBootcamp.swift in Sources */,

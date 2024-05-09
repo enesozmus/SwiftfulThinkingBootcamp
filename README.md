@@ -29,3 +29,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > ForEach() { }, 0..<10, . index in, \(index), [index], .indices
 > - ⚙️ [ScrollView](./SwiftfulThinkingBootcamp/ScrollViewBootcamp.swift)
 >  > ScrollView(), .vertical, .horizontal, showsIndicators
+> - ⚙️ [Grid](./SwiftfulThinkingBootcamp/GridBootcamp.swift)
+>  > Lazy Horizontal Grid, Lazy Horizontal Stack, columns, alignment, spacing, pinnedViews, [GridItem], size, .adaptive, .fixed, .flexible, spacing, alignment
