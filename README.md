@@ -37,3 +37,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > @State
 > - ⚙️ [Extracting functions and subviews](./SwiftfulThinkingBootcamp/ExtractingBootcamp.swift)
 >  > func name(){...}, :some View, @State, struct name: View, @Binding
+> - ⚙️ [Binding](./SwiftfulThinkingBootcamp/BindingBootcamp.swift)
+>  > Sharing state with subviews, @State, @Binding, $
