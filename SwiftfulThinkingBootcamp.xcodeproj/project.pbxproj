@@ -25,6 +25,7 @@
 		DFBFBAA22BEA1FE000444846 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBFBAA12BEA1FE000444846 /* TextBootcamp.swift */; };
 		DFBFBAA42BEA202400444846 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBFBAA32BEA202400444846 /* ShapesBootcamp.swift */; };
 		DFCA97462BEBD5DF007C65B6 /* InitializersBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCA97452BEBD5DF007C65B6 /* InitializersBootcamp.swift */; };
+		DFFAD4582BECCF3000D78829 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAD4572BECCF3000D78829 /* ForEachBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		DFBFBAA12BEA1FE000444846 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		DFBFBAA32BEA202400444846 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		DFCA97452BEBD5DF007C65B6 /* InitializersBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializersBootcamp.swift; sourceTree = "<group>"; };
+		DFFAD4572BECCF3000D78829 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				DF6BDF1D2BEA9DA5003CFEDE /* BackgroundAndOverlaysBootcamp.swift */,
 				DF6BDF0F2BEA395E003CFEDE /* ColorsBootcamp.swift */,
 				DFBFBA952BEA1FBD00444846 /* ContentView.swift */,
+				DFFAD4572BECCF3000D78829 /* ForEachBootcamp.swift */,
 				DF6BDF192BEA7CD1003CFEDE /* FrameBootcamp1.swift */,
 				DF6BDF172BEA7AF6003CFEDE /* FrameBootcamp2.swift */,
 				DF6BDF1B2BEA7E4E003CFEDE /* FrameBootcamp3.swift */,
@@ -199,6 +202,7 @@
 				DF0F4D822BEBAF890022AE85 /* SpacerBootcamp.swift in Sources */,
 				DFBFBAA42BEA202400444846 /* ShapesBootcamp.swift in Sources */,
 				DFBFBA962BEA1FBD00444846 /* ContentView.swift in Sources */,
+				DFFAD4582BECCF3000D78829 /* ForEachBootcamp.swift in Sources */,
 				DF6BDF1E2BEA9DA5003CFEDE /* BackgroundAndOverlaysBootcamp.swift in Sources */,
 				DFBFBAA22BEA1FE000444846 /* TextBootcamp.swift in Sources */,
 				DFBFBA942BEA1FBD00444846 /* SwiftfulThinkingBootcampApp.swift in Sources */,

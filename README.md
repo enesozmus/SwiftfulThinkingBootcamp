@@ -23,3 +23,7 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > .padding(), .all, .vertical, .horizontal, .leading etc. 
 > - ⚙️ [Spacer](./SwiftfulThinkingBootcamp/SpacerBootcamp.swift)
 >  > spacer(), "an adaptive view with no content" that expands as much as it can 
+> - ⚙️ [Initializers of views and the use of enum](./SwiftfulThinkingBootcamp/InitializersBootcamp.swift)
+>  > init(), self, enum
+> - ⚙️ [ForEach](./SwiftfulThinkingBootcamp/ForEachBootcamp.swift)
+>  > ForEach() { }, 0..<10, . index in, \(index), [index], .indices
