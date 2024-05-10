@@ -51,3 +51,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > .default, .linear, .easeIn, .easeOut, .easeInOut, .spring(), .interpolatingSpring(), .timingCurve()
 > - ⚙️ [Transitions](./SwiftfulThinkingBootcamp/TransitionsBootcamp.swift)
 >  > Default Transition, Built-in Transition Types, Custom Transitions, Combined Transitions, AnyTransition, .opacity, .scale, .slide, .move(edge:), .asymmetric
+> - ⚙️ [Sheets and FullScreenCovers](./SwiftfulThinkingBootcamp/SheetsBootcamp.swift)
+>  > @State, .toggle(), .sheet(), fullScreenCover() isPresented, content, @Environment(\.dismiss), dismiss()
