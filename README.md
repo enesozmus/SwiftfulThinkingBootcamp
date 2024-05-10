@@ -41,3 +41,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Sharing state with subviews, @State, @Binding, $
 > - ⚙️ [Logical conditional expressions](./SwiftfulThinkingBootcamp/ConditionalLogicBootcamp.swift)
 >  > @State, Bool, .toggle(), .description, if{}else{}, .task { }, ProgressView()
+> - ⚙️ [Ternary Operator](./SwiftfulThinkingBootcamp/TernaryBootcamp.swift)
+>  > ... ? ... : ...
