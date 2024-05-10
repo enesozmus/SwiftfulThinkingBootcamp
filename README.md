@@ -43,3 +43,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > @State, Bool, .toggle(), .description, if{}else{}, .task { }, ProgressView()
 > - ⚙️ [Ternary Operator](./SwiftfulThinkingBootcamp/TernaryBootcamp.swift)
 >  > ... ? ... : ...
+> - ⚙️ [Animations](./SwiftfulThinkingBootcamp/AnimationBootcamp.swift)
+>  > withAnimation() {}, Declarative Animation Syntax, State and Animation, Animated Properties, Animation Parameters, Nested Animations, Animation Types, Custom Animations, Transitions, Gesture-based Animation, Animating View Transitions
