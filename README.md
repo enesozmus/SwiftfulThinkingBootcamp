@@ -45,3 +45,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > ... ? ... : ...
 > - ⚙️ [Animations](./SwiftfulThinkingBootcamp/AnimationBootcamp.swift)
 >  > withAnimation() {}, Declarative Animation Syntax, State and Animation, Animated Properties, Animation Parameters, Nested Animations, Animation Types, Custom Animations, Transitions, Gesture-based Animation, Animating View Transitions
+> - ⚙️ [Animations 2](./SwiftfulThinkingBootcamp/TimingCurvesBootcamp.swift)
+>  > .default, .linear, .easeIn, .easeOut, .easeInOut
