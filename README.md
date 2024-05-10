@@ -49,3 +49,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > .default, .linear, .easeIn, .easeOut, .easeInOut
 > - ⚙️ [Timing Curves 2](./SwiftfulThinkingBootcamp/TimingCurvesBootcamp2.swift)
 >  > .default, .linear, .easeIn, .easeOut, .easeInOut, .spring(), .interpolatingSpring(), .timingCurve()
+> - ⚙️ [Transitions](./SwiftfulThinkingBootcamp/TransitionsBootcamp.swift)
+>  > Default Transition, Built-in Transition Types, Custom Transitions, Combined Transitions, AnyTransition, .opacity, .scale, .slide, .move(edge:), .asymmetric
