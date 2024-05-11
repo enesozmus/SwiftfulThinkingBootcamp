@@ -59,3 +59,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Navigation, NavigationStack{}, NavigationLink(), .navigationTitle(""), .navigationBarTitleDisplayMode(), .navigationDestination(for:destination:), NavigationDestination for a boolean @state variable, NavigationStack path parameter, NavigationPath, .toolbar{}, ToolbarItemGroup(){}, NavigationSplitView
 > - ⚙️ [List](./SwiftfulThinkingBootcamp/ListBootcamp.swift)
 >  > [List], List {}, Section(){}, .onDelete(), .onMove(), .listRowBackground(), .listStyle()
+> - ⚙️ [Alerts](./SwiftfulThinkingBootcamp/AlertBootcamp.swift)
+>  > Alert(), title:, message:, dismissButton:, primaryButton:, secondaryButton:, action:
