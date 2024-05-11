@@ -69,3 +69,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > TextField(titleKey:, text:, prompt: )
 > - ⚙️ [TextEditor](./SwiftfulThinkingBootcamp/TextEditorBootcamp.swift)
 >  > TextEditor(text:), .scrollContentBackground(.hidden), .clipShape(.rect(cornerRadii:)), .colorMultiply(Color(#colorLiteral()))
+> - ⚙️ [Toggle](./SwiftfulThinkingBootcamp/ToggleBootcamp.swift)
+>  > Toggle(_ titleKey:, isOn:, label: ), Styling toggles, .toggleStyle(.switch), .toggleStyle(.button)
