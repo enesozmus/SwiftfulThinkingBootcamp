@@ -63,3 +63,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Alert(), title:, message:, dismissButton:, primaryButton:, secondaryButton:, action:
 > - ⚙️ [Confirmation Dialog](./SwiftfulThinkingBootcamp/ConfirmationDialogBootcamp.swift)
 >  > confirmationDialog(), titleKey:, isPresented, titleVisibility, data, actions, message
+> - ⚙️ [ContextMenu](./SwiftfulThinkingBootcamp/ContextMenuBootcamp.swift)
+>  > contextMenu(menuItems:), Label("...", systemImage: "...")
