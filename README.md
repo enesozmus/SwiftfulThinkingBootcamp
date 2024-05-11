@@ -57,3 +57,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > .sheet(), fullScreenCover(), .transition(), withAnimation() {}, .animation(), .offset()
 > - ⚙️ [Navigation](./SwiftfulThinkingBootcamp/NavigationBootcamp.swift)
 >  > Navigation, NavigationStack{}, NavigationLink(), .navigationTitle(""), .navigationBarTitleDisplayMode(), .navigationDestination(for:destination:), NavigationDestination for a boolean @state variable, NavigationStack path parameter, NavigationPath, .toolbar{}, ToolbarItemGroup(){}, NavigationSplitView
+> - ⚙️ [List](./SwiftfulThinkingBootcamp/ListBootcamp.swift)
+>  > [List], List {}, Section(){}, .onDelete(), .onMove(), .listRowBackground(), .listStyle()
