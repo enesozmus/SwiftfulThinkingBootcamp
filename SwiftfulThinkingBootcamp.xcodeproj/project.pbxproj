@@ -32,6 +32,7 @@
 		DF6BDF1C2BEA7E4E003CFEDE /* FrameBootcamp3.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6BDF1B2BEA7E4E003CFEDE /* FrameBootcamp3.swift */; };
 		DF6BDF1E2BEA9DA5003CFEDE /* BackgroundAndOverlaysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6BDF1D2BEA9DA5003CFEDE /* BackgroundAndOverlaysBootcamp.swift */; };
 		DF8CCF2D2BEFDA1400320366 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8CCF2C2BEFDA1400320366 /* AlertBootcamp.swift */; };
+		DF8CCF312BEFE42F00320366 /* ConfirmationDialogBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8CCF302BEFE42F00320366 /* ConfirmationDialogBootcamp.swift */; };
 		DFA23BD32BED143500C758EB /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA23BD22BED143500C758EB /* ButtonsBootcamp.swift */; };
 		DFBFBA942BEA1FBD00444846 /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBFBA932BEA1FBD00444846 /* SwiftfulThinkingBootcampApp.swift */; };
 		DFBFBA962BEA1FBD00444846 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBFBA952BEA1FBD00444846 /* ContentView.swift */; };
@@ -72,6 +73,7 @@
 		DF6BDF1B2BEA7E4E003CFEDE /* FrameBootcamp3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp3.swift; sourceTree = "<group>"; };
 		DF6BDF1D2BEA9DA5003CFEDE /* BackgroundAndOverlaysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlaysBootcamp.swift; sourceTree = "<group>"; };
 		DF8CCF2C2BEFDA1400320366 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		DF8CCF302BEFE42F00320366 /* ConfirmationDialogBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogBootcamp.swift; sourceTree = "<group>"; };
 		DFA23BD22BED143500C758EB /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 		DFBFBA902BEA1FBD00444846 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFBFBA932BEA1FBD00444846 /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				DFA23BD22BED143500C758EB /* ButtonsBootcamp.swift */,
 				DF6BDF0F2BEA395E003CFEDE /* ColorsBootcamp.swift */,
 				DF144F532BEE3B900095D89B /* ConditionalLogicBootcamp.swift */,
+				DF8CCF302BEFE42F00320366 /* ConfirmationDialogBootcamp.swift */,
 				DFBFBA952BEA1FBD00444846 /* ContentView.swift */,
 				DF12E3C12BED666D0098C94D /* ExtractingBootcamp.swift */,
 				DFFAD4572BECCF3000D78829 /* ForEachBootcamp.swift */,
@@ -252,6 +255,7 @@
 				DFA23BD32BED143500C758EB /* ButtonsBootcamp.swift in Sources */,
 				DF0F4D802BEBA4EB0022AE85 /* PaddingBootcamp.swift in Sources */,
 				DF1BE6602BEF95E10049FF88 /* ListBootcamp.swift in Sources */,
+				DF8CCF312BEFE42F00320366 /* ConfirmationDialogBootcamp.swift in Sources */,
 				DF12E3C02BED57F50098C94D /* StateBootcamp.swift in Sources */,
 				DF6BDF182BEA7AF6003CFEDE /* FrameBootcamp2.swift in Sources */,
 				DF144F562BEE46680095D89B /* TernaryBootcamp.swift in Sources */,

@@ -61,3 +61,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > [List], List {}, Section(){}, .onDelete(), .onMove(), .listRowBackground(), .listStyle()
 > - ⚙️ [Alerts](./SwiftfulThinkingBootcamp/AlertBootcamp.swift)
 >  > Alert(), title:, message:, dismissButton:, primaryButton:, secondaryButton:, action:
+> - ⚙️ [Confirmation Dialog](./SwiftfulThinkingBootcamp/ConfirmationDialogBootcamp.swift)
+>  > confirmationDialog(), titleKey:, isPresented, titleVisibility, data, actions, message
