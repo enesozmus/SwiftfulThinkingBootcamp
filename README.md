@@ -67,3 +67,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > contextMenu(menuItems:), Label("...", systemImage: "...")
 > - ⚙️ [TextField](./SwiftfulThinkingBootcamp/TextFieldBootcamp.swift)
 >  > TextField(titleKey:, text:, prompt: )
+> - ⚙️ [TextEditor](./SwiftfulThinkingBootcamp/TextEditorBootcamp.swift)
+>  > TextEditor(text:), .scrollContentBackground(.hidden), .clipShape(.rect(cornerRadii:)), .colorMultiply(Color(#colorLiteral()))
