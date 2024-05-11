@@ -53,3 +53,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Default Transition, Built-in Transition Types, Custom Transitions, Combined Transitions, AnyTransition, .opacity, .scale, .slide, .move(edge:), .asymmetric
 > - ⚙️ [Sheets and FullScreenCovers](./SwiftfulThinkingBootcamp/SheetsBootcamp.swift)
 >  > @State, .toggle(), .sheet(), fullScreenCover() isPresented, content, @Environment(\.dismiss), dismiss()
+> - ⚙️ [Popovers](./SwiftfulThinkingBootcamp/PopoverBootcamp.swift)
+>  > .sheet(), fullScreenCover(), .transition(), withAnimation() {}, .animation(), .offset()
