@@ -55,3 +55,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > @State, .toggle(), .sheet(), fullScreenCover() isPresented, content, @Environment(\.dismiss), dismiss()
 > - ⚙️ [Popovers](./SwiftfulThinkingBootcamp/PopoverBootcamp.swift)
 >  > .sheet(), fullScreenCover(), .transition(), withAnimation() {}, .animation(), .offset()
+> - ⚙️ [Navigation](./SwiftfulThinkingBootcamp/NavigationBootcamp.swift)
+>  > Navigation, NavigationStack{}, NavigationLink(), .navigationTitle(""), .navigationBarTitleDisplayMode(), .navigationDestination(for:destination:), NavigationDestination for a boolean @state variable, NavigationStack path parameter, NavigationPath, .toolbar{}, ToolbarItemGroup(){}, NavigationSplitView
