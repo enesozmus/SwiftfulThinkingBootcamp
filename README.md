@@ -71,3 +71,6 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > TextEditor(text:), .scrollContentBackground(.hidden), .clipShape(.rect(cornerRadii:)), .colorMultiply(Color(#colorLiteral()))
 > - ⚙️ [Toggle](./SwiftfulThinkingBootcamp/ToggleBootcamp.swift)
 >  > Toggle(_ titleKey:, isOn:, label: ), Styling toggles, .toggleStyle(.switch), .toggleStyle(.button)
+
+> - ⚙️ [Picker](./SwiftfulThinkingBootcamp/PickerBootcamp.swift)
+>  > Picker(), selection:, label:, content:, .tag(), .pickerStyle()
