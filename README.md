@@ -83,3 +83,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Slider(value:, in:, step:, onEditingChanged:, minimumValueLabel:, maximumValueLabel:, label: ), Text(String(format: "%.2f", sliderValue))
 > - ⚙️ [TabView](./SwiftfulThinkingBootcamp/TabViewBootcamp.swift)
 >  > TabView(selection:, content: ), .badge(), .tabItem{}, .tag(), .onAppear(){}, Label(), .tabViewStyle()
+> - ⚙️ [DarkMode](./SwiftfulThinkingBootcamp/DarkModeBootcamp.swift)
+>  > .preferredColorScheme(), colors
