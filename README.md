@@ -81,5 +81,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Stepper(titleKey:, value:, step:, format:, label:, onEditingChanged: ), CGFloat, onIncrement:{}, onDecrement:{}
 > - ⚙️ [Slider](./SwiftfulThinkingBootcamp/SliderBootcamp.swift)
 >  > Slider(value:, in:, step:, onEditingChanged:, minimumValueLabel:, maximumValueLabel:, label: ), Text(String(format: "%.2f", sliderValue))
-> - ⚙️ [...](./SwiftfulThinkingBootcamp/SliderBootcamp.swift)
->  >
+> - ⚙️ [TabView](./SwiftfulThinkingBootcamp/TabViewBootcamp.swift)
+>  > TabView(selection:, content: ), .badge(), .tabItem{}, .tag(), .onAppear(){}, Label(), .tabViewStyle()
