@@ -85,3 +85,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > TabView(selection:, content: ), .badge(), .tabItem{}, .tag(), .onAppear(){}, Label(), .tabViewStyle()
 > - ⚙️ [DarkMode](./SwiftfulThinkingBootcamp/DarkModeBootcamp.swift)
 >  > .preferredColorScheme(), colors
+> - ⚙️ [Documentation](./SwiftfulThinkingBootcamp/DocumentationBootcamp.swift)
+>  > Adding documentation, markups, and comments, code folding, code blocks
