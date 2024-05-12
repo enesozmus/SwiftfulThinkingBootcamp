@@ -87,3 +87,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > .preferredColorScheme(), colors
 > - ⚙️ [Documentation](./SwiftfulThinkingBootcamp/DocumentationBootcamp.swift)
 >  > Adding documentation, markups, and comments, code folding, code blocks
+> - ⚙️ [OnAppear and OnDisappear](./SwiftfulThinkingBootcamp/OnAppearAndOnDisappearBootcamp.swift)
+>  > onAppear(perform: {}), onDisappear(perform: {})
