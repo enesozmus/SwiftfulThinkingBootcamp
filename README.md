@@ -79,3 +79,7 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Date(), DateFormatter(), Calendar, ClosedRange\<Date>, DateComponents, DatePicker(titleKey:, selection:, in:, displayedComponents:, label: ), .datePickerStyle()
 > - ⚙️ [Stepper](./SwiftfulThinkingBootcamp/StepperBootcamp.swift)
 >  > Stepper(titleKey:, value:, step:, format:, label:, onEditingChanged: ), CGFloat, onIncrement:{}, onDecrement:{}
+> - ⚙️ [Slider](./SwiftfulThinkingBootcamp/SliderBootcamp.swift)
+>  > Slider(value:, in:, step:, onEditingChanged:, minimumValueLabel:, maximumValueLabel:, label: ), Text(String(format: "%.2f", sliderValue))
+> - ⚙️ [...](./SwiftfulThinkingBootcamp/SliderBootcamp.swift)
+>  >
