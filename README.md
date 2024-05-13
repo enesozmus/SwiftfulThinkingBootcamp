@@ -89,3 +89,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Adding documentation, markups, and comments, code folding, code blocks
 > - ⚙️ [OnAppear and OnDisappear](./SwiftfulThinkingBootcamp/OnAppearAndOnDisappearBootcamp.swift)
 >  > onAppear(perform: {}), onDisappear(perform: {})
+> - ⚙️ [Unwrapping optionals safely](./SwiftfulThinkingBootcamp/IfLetGuardBootcamp.swift)
+>  > if let __ = __ { } else { },  guard let __ = __ else { }
