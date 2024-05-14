@@ -94,9 +94,9 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 > - ⚙️ [TapGesture](./SwiftfulThinkingBootcamp/TapGestureBootcamp.swift)
 >  > TapGesture().onEnded{}, .gesture(), .onTapGesture{}
 > - ⚙️ [LongPressGesture](./SwiftfulThinkingBootcamp/LongPressGestureBootcamp.swift)
->  > @GestureState, LongPressGesture(), .updating(){}, .onEnded{}, .gesture(), .onLongPressGesture(){}, { (isPressing) in ...}, perform:{}, .onTapGesture{}
-> - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
->  >
+>  > @GestureState, LongPressGesture(), .updating(){}, .onChanged{}, .onEnded{}, .gesture(), .onLongPressGesture(){}, { (isPressing) in ...}, perform:{}, .onTapGesture{}
+> - ⚙️ [MagnifyGesture](./SwiftfulThinkingBootcamp/MagnifyGestureBootcamp.swift)
+>  > @GestureState, MagnifyGesture(), .updating(){}, .onChanged{},, .onEnded{}, .gesture(), value.magnification
 > - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
 >  >
 > - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
