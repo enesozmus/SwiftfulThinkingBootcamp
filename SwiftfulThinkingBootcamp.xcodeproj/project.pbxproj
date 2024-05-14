@@ -46,6 +46,7 @@
 		DF6D5B6B2BF3A0FB001F35AC /* MagnifyGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6D5B6A2BF3A0FB001F35AC /* MagnifyGestureBootcamp.swift */; };
 		DF8A76D22BF3B3F3003E07E0 /* RotateGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8A76D12BF3B3F3003E07E0 /* RotateGestureBootcamp.swift */; };
 		DF8A76D42BF3BAD3003E07E0 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8A76D32BF3BAD3003E07E0 /* DragGestureBootcamp.swift */; };
+		DF8A76D62BF3CFBB003E07E0 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8A76D52BF3CFBB003E07E0 /* DragGestureBootcamp2.swift */; };
 		DF8CCF2D2BEFDA1400320366 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8CCF2C2BEFDA1400320366 /* AlertBootcamp.swift */; };
 		DF8CCF312BEFE42F00320366 /* ConfirmationDialogBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8CCF302BEFE42F00320366 /* ConfirmationDialogBootcamp.swift */; };
 		DF8CCF332BEFE9CA00320366 /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8CCF322BEFE9CA00320366 /* ContextMenuBootcamp.swift */; };
@@ -106,6 +107,7 @@
 		DF6D5B6A2BF3A0FB001F35AC /* MagnifyGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnifyGestureBootcamp.swift; sourceTree = "<group>"; };
 		DF8A76D12BF3B3F3003E07E0 /* RotateGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateGestureBootcamp.swift; sourceTree = "<group>"; };
 		DF8A76D32BF3BAD3003E07E0 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
+		DF8A76D52BF3CFBB003E07E0 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		DF8CCF2C2BEFDA1400320366 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		DF8CCF302BEFE42F00320366 /* ConfirmationDialogBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogBootcamp.swift; sourceTree = "<group>"; };
 		DF8CCF322BEFE9CA00320366 /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
@@ -173,6 +175,7 @@
 				DF0FDA5A2BF103EA00FAD48F /* DatePickerBootcamp.swift */,
 				DF0FDA642BF15D1A00FAD48F /* DocumentationBootcamp.swift */,
 				DF8A76D32BF3BAD3003E07E0 /* DragGestureBootcamp.swift */,
+				DF8A76D52BF3CFBB003E07E0 /* DragGestureBootcamp2.swift */,
 				DF12E3C12BED666D0098C94D /* ExtractingBootcamp.swift */,
 				DFFAD4572BECCF3000D78829 /* ForEachBootcamp.swift */,
 				DF6BDF192BEA7CD1003CFEDE /* FrameBootcamp1.swift */,
@@ -350,6 +353,7 @@
 				DF1BE65E2BEF83A70049FF88 /* NavigationBootcamp.swift in Sources */,
 				DF12E3C62BED76890098C94D /* BindingBootcamp.swift in Sources */,
 				DF0FE9AF2BEEA6F900805698 /* SheetsBootcamp.swift in Sources */,
+				DF8A76D62BF3CFBB003E07E0 /* DragGestureBootcamp2.swift in Sources */,
 				DF8A76D22BF3B3F3003E07E0 /* RotateGestureBootcamp.swift in Sources */,
 				DF0FDA572BF0CB5B00FAD48F /* PickerBootcamp.swift in Sources */,
 				DF144F582BEE4C6B0095D89B /* AnimationBootcamp.swift in Sources */,
