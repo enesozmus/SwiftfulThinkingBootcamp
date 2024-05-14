@@ -91,3 +91,13 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > onAppear(perform: {}), onDisappear(perform: {})
 > - ⚙️ [Unwrapping optionals safely](./SwiftfulThinkingBootcamp/IfLetGuardBootcamp.swift)
 >  > if let __ = __ { } else { },  guard let __ = __ else { }
+> - ⚙️ [TapGesture](./SwiftfulThinkingBootcamp/TapGestureBootcamp.swift)
+>  > TapGesture().onEnded{}, .gesture(), .onTapGesture{}
+> - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
+>  >
+> - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
+>  >
+> - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
+>  >
+> - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
+>  >
