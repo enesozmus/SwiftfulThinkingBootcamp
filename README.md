@@ -99,5 +99,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Gesture, @GestureState, MagnifyGesture(), .updating(){}, .onChanged{},, .onEnded{}, .gesture(), value.magnification
 > - ⚙️ [RotateGesture](./SwiftfulThinkingBootcamp/RotateGestureBootcamp.swift)
 >  > Gesture, Angle, RotateGesture(), .onChanged{}, .onEnded{}, .gesture(), .rotationEffect()
-> - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
->  >
+> - ⚙️ [DragGesture](./SwiftfulThinkingBootcamp/DragGestureBootcamp.swift)
+>  > Gesture, DragGesture(), .onChanged{}, .onEnded{}, .gesture(), value.translation, .scaleEffect(), .rotationEffect(), Angle, .offset()
