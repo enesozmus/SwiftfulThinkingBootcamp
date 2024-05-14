@@ -93,8 +93,8 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > if let __ = __ { } else { },  guard let __ = __ else { }
 > - ⚙️ [TapGesture](./SwiftfulThinkingBootcamp/TapGestureBootcamp.swift)
 >  > TapGesture().onEnded{}, .gesture(), .onTapGesture{}
-> - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
->  >
+> - ⚙️ [LongPressGesture](./SwiftfulThinkingBootcamp/LongPressGestureBootcamp.swift)
+>  > @GestureState, LongPressGesture(), .updating(){}, .onEnded{}, .gesture(), .onLongPressGesture(){}, { (isPressing) in ...}, perform:{}, .onTapGesture{}
 > - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
 >  >
 > - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
