@@ -92,12 +92,12 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 > - ⚙️ [Unwrapping optionals safely](./SwiftfulThinkingBootcamp/IfLetGuardBootcamp.swift)
 >  > if let __ = __ { } else { },  guard let __ = __ else { }
 > - ⚙️ [TapGesture](./SwiftfulThinkingBootcamp/TapGestureBootcamp.swift)
->  > TapGesture().onEnded{}, .gesture(), .onTapGesture{}
+>  > Gesture, TapGesture().onEnded{}, .gesture(), .onTapGesture{}
 > - ⚙️ [LongPressGesture](./SwiftfulThinkingBootcamp/LongPressGestureBootcamp.swift)
->  > @GestureState, LongPressGesture(), .updating(){}, .onChanged{}, .onEnded{}, .gesture(), .onLongPressGesture(){}, { (isPressing) in ...}, perform:{}, .onTapGesture{}
+>  > Gesture, @GestureState, LongPressGesture(), .updating(){}, .onChanged{}, .onEnded{}, .gesture(), .onLongPressGesture(){}, { (isPressing) in ...}, perform:{}, .onTapGesture{}
 > - ⚙️ [MagnifyGesture](./SwiftfulThinkingBootcamp/MagnifyGestureBootcamp.swift)
->  > @GestureState, MagnifyGesture(), .updating(){}, .onChanged{},, .onEnded{}, .gesture(), value.magnification
-> - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
->  >
+>  > Gesture, @GestureState, MagnifyGesture(), .updating(){}, .onChanged{},, .onEnded{}, .gesture(), value.magnification
+> - ⚙️ [RotateGesture](./SwiftfulThinkingBootcamp/RotateGestureBootcamp.swift)
+>  > Gesture, Angle, RotateGesture(), .onChanged{}, .onEnded{}, .gesture(), .rotationEffect()
 > - ⚙️ [...](./SwiftfulThinkingBootcamp/Aaaa.swift)
 >  >
