@@ -47,6 +47,7 @@
 		DF8A76D22BF3B3F3003E07E0 /* RotateGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8A76D12BF3B3F3003E07E0 /* RotateGestureBootcamp.swift */; };
 		DF8A76D42BF3BAD3003E07E0 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8A76D32BF3BAD3003E07E0 /* DragGestureBootcamp.swift */; };
 		DF8A76D62BF3CFBB003E07E0 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8A76D52BF3CFBB003E07E0 /* DragGestureBootcamp2.swift */; };
+		DF8A76D82BF3D29D003E07E0 /* DragGestureBootcamp3.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8A76D72BF3D29D003E07E0 /* DragGestureBootcamp3.swift */; };
 		DF8CCF2D2BEFDA1400320366 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8CCF2C2BEFDA1400320366 /* AlertBootcamp.swift */; };
 		DF8CCF312BEFE42F00320366 /* ConfirmationDialogBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8CCF302BEFE42F00320366 /* ConfirmationDialogBootcamp.swift */; };
 		DF8CCF332BEFE9CA00320366 /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8CCF322BEFE9CA00320366 /* ContextMenuBootcamp.swift */; };
@@ -108,6 +109,7 @@
 		DF8A76D12BF3B3F3003E07E0 /* RotateGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateGestureBootcamp.swift; sourceTree = "<group>"; };
 		DF8A76D32BF3BAD3003E07E0 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		DF8A76D52BF3CFBB003E07E0 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
+		DF8A76D72BF3D29D003E07E0 /* DragGestureBootcamp3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp3.swift; sourceTree = "<group>"; };
 		DF8CCF2C2BEFDA1400320366 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		DF8CCF302BEFE42F00320366 /* ConfirmationDialogBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogBootcamp.swift; sourceTree = "<group>"; };
 		DF8CCF322BEFE9CA00320366 /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
@@ -176,6 +178,7 @@
 				DF0FDA642BF15D1A00FAD48F /* DocumentationBootcamp.swift */,
 				DF8A76D32BF3BAD3003E07E0 /* DragGestureBootcamp.swift */,
 				DF8A76D52BF3CFBB003E07E0 /* DragGestureBootcamp2.swift */,
+				DF8A76D72BF3D29D003E07E0 /* DragGestureBootcamp3.swift */,
 				DF12E3C12BED666D0098C94D /* ExtractingBootcamp.swift */,
 				DFFAD4572BECCF3000D78829 /* ForEachBootcamp.swift */,
 				DF6BDF192BEA7CD1003CFEDE /* FrameBootcamp1.swift */,
@@ -316,6 +319,7 @@
 				DF6D5B672BF388D6001F35AC /* TapGestureBootcamp.swift in Sources */,
 				DF6BDF102BEA395E003CFEDE /* ColorsBootcamp.swift in Sources */,
 				DFA23BD32BED143500C758EB /* ButtonsBootcamp.swift in Sources */,
+				DF8A76D82BF3D29D003E07E0 /* DragGestureBootcamp3.swift in Sources */,
 				DF0F4D802BEBA4EB0022AE85 /* PaddingBootcamp.swift in Sources */,
 				DF1BE6602BEF95E10049FF88 /* ListBootcamp.swift in Sources */,
 				DF0FDA612BF1201F00FAD48F /* TabViewBootcamp.swift in Sources */,
