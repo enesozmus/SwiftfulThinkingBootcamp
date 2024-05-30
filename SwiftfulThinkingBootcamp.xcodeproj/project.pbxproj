@@ -65,6 +65,7 @@
 		DFFAD4582BECCF3000D78829 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAD4572BECCF3000D78829 /* ForEachBootcamp.swift */; };
 		DFFAD45A2BECEA0900D78829 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAD4592BECEA0900D78829 /* ScrollViewBootcamp.swift */; };
 		DFFAD45C2BECF1F000D78829 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAD45B2BECF1F000D78829 /* GridBootcamp.swift */; };
+		DFFCC2D92C09104C00DAE28A /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFCC2D82C09104C00DAE28A /* ScrollViewReaderBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -128,6 +129,7 @@
 		DFFAD4572BECCF3000D78829 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		DFFAD4592BECEA0900D78829 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 		DFFAD45B2BECF1F000D78829 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		DFFCC2D82C09104C00DAE28A /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,6 +204,7 @@
 				DFBFBAA52BEA203600444846 /* Root */,
 				DF8A76D12BF3B3F3003E07E0 /* RotateGestureBootcamp.swift */,
 				DFFAD4592BECEA0900D78829 /* ScrollViewBootcamp.swift */,
+				DFFCC2D82C09104C00DAE28A /* ScrollViewReaderBootcamp.swift */,
 				DFBFBAA32BEA202400444846 /* ShapesBootcamp.swift */,
 				DF0FE9AE2BEEA6F900805698 /* SheetsBootcamp.swift */,
 				DF0FDA5E2BF1149500FAD48F /* SliderBootcamp.swift */,
@@ -315,6 +318,7 @@
 				DFCA97462BEBD5DF007C65B6 /* InitializersBootcamp.swift in Sources */,
 				DF6BDF1C2BEA7E4E003CFEDE /* FrameBootcamp3.swift in Sources */,
 				DF6BDF122BEA4101003CFEDE /* GradientsBootcamp.swift in Sources */,
+				DFFCC2D92C09104C00DAE28A /* ScrollViewReaderBootcamp.swift in Sources */,
 				DF0FDA5D2BF10D3C00FAD48F /* StepperBootcamp.swift in Sources */,
 				DF6D5B672BF388D6001F35AC /* TapGestureBootcamp.swift in Sources */,
 				DF6BDF102BEA395E003CFEDE /* ColorsBootcamp.swift in Sources */,

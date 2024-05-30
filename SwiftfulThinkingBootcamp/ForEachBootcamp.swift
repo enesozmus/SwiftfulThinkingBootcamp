@@ -25,7 +25,7 @@ struct ForEachBootcamp: View {
             //                }
             //            }
             
-            ForEach(data.indices) { index in
+            ForEach(data.indices, id: \.self) { index in
                 Text("\(data[index]): \(index)")
             }
         }
