@@ -105,3 +105,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > ScrollViewReader, proxy, Namespace, .scrollTo(), .id() 
 > - ⚙️ [GeometryReader](./SwiftfulThinkingBootcamp/GeometryReader)
 >  > Deeper Understanding
+> - ⚙️ [Multiple Sheets](./SwiftfulThinkingBootcamp/MultipleSheetsBootcamp.swift)
+>  > .sheet(isPresented:content:), .sheet(item:content:)
