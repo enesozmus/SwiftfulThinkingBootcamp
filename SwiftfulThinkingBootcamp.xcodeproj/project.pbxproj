@@ -32,7 +32,10 @@
 		DF1BE65C2BEF73AE0049FF88 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1BE65B2BEF73AE0049FF88 /* PopoverBootcamp.swift */; };
 		DF1BE65E2BEF83A70049FF88 /* NavigationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1BE65D2BEF83A70049FF88 /* NavigationBootcamp.swift */; };
 		DF1BE6602BEF95E10049FF88 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF1BE65F2BEF95E10049FF88 /* ListBootcamp.swift */; };
+		DF4AA9992C09EA0700AA1414 /* Utility Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF4AA9982C09EA0700AA1414 /* Utility Extensions.swift */; };
 		DF51FD2D2BF2BC060030B182 /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF51FD2C2BF2BC060030B182 /* IfLetGuardBootcamp.swift */; };
+		DF5373FF2C09F0C2009D39DF /* ImageGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF5373FE2C09F0C2009D39DF /* ImageGridView.swift */; };
+		DF5374012C09F6EE009D39DF /* ScrollingImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF5374002C09F6EE009D39DF /* ScrollingImageView.swift */; };
 		DF6BDF102BEA395E003CFEDE /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6BDF0F2BEA395E003CFEDE /* ColorsBootcamp.swift */; };
 		DF6BDF122BEA4101003CFEDE /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6BDF112BEA4101003CFEDE /* GradientsBootcamp.swift */; };
 		DF6BDF142BEA6246003CFEDE /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6BDF132BEA6246003CFEDE /* IconsBootcamp.swift */; };
@@ -66,6 +69,7 @@
 		DFFAD45A2BECEA0900D78829 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAD4592BECEA0900D78829 /* ScrollViewBootcamp.swift */; };
 		DFFAD45C2BECF1F000D78829 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAD45B2BECF1F000D78829 /* GridBootcamp.swift */; };
 		DFFCC2D92C09104C00DAE28A /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFCC2D82C09104C00DAE28A /* ScrollViewReaderBootcamp.swift */; };
+		DFFCC2DB2C09176700DAE28A /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFCC2DA2C09176700DAE28A /* GeometryReaderBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -95,7 +99,10 @@
 		DF1BE65B2BEF73AE0049FF88 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		DF1BE65D2BEF83A70049FF88 /* NavigationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBootcamp.swift; sourceTree = "<group>"; };
 		DF1BE65F2BEF95E10049FF88 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
+		DF4AA9982C09EA0700AA1414 /* Utility Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Utility Extensions.swift"; sourceTree = "<group>"; };
 		DF51FD2C2BF2BC060030B182 /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
+		DF5373FE2C09F0C2009D39DF /* ImageGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGridView.swift; sourceTree = "<group>"; };
+		DF5374002C09F6EE009D39DF /* ScrollingImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollingImageView.swift; sourceTree = "<group>"; };
 		DF6BDF0F2BEA395E003CFEDE /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 		DF6BDF112BEA4101003CFEDE /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 		DF6BDF132BEA6246003CFEDE /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
@@ -130,6 +137,7 @@
 		DFFAD4592BECEA0900D78829 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 		DFFAD45B2BECF1F000D78829 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		DFFCC2D82C09104C00DAE28A /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
+		DFFCC2DA2C09176700DAE28A /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +151,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DF4AA9972C09E9F400AA1414 /* GeometryReader */ = {
+			isa = PBXGroup;
+			children = (
+				DFFCC2DA2C09176700DAE28A /* GeometryReaderBootcamp.swift */,
+				DF4AA9982C09EA0700AA1414 /* Utility Extensions.swift */,
+				DF5373FE2C09F0C2009D39DF /* ImageGridView.swift */,
+				DF5374002C09F6EE009D39DF /* ScrollingImageView.swift */,
+			);
+			path = GeometryReader;
+			sourceTree = "<group>";
+		};
 		DFBFBA872BEA1FBD00444846 = {
 			isa = PBXGroup;
 			children = (
@@ -186,6 +205,7 @@
 				DF6BDF192BEA7CD1003CFEDE /* FrameBootcamp1.swift */,
 				DF6BDF172BEA7AF6003CFEDE /* FrameBootcamp2.swift */,
 				DF6BDF1B2BEA7E4E003CFEDE /* FrameBootcamp3.swift */,
+				DF4AA9972C09E9F400AA1414 /* GeometryReader */,
 				DF6BDF112BEA4101003CFEDE /* GradientsBootcamp.swift */,
 				DFFAD45B2BECF1F000D78829 /* GridBootcamp.swift */,
 				DF6BDF132BEA6246003CFEDE /* IconsBootcamp.swift */,
@@ -314,7 +334,10 @@
 			files = (
 				DF144F542BEE3B900095D89B /* ConditionalLogicBootcamp.swift in Sources */,
 				DF6BDF1A2BEA7CD1003CFEDE /* FrameBootcamp1.swift in Sources */,
+				DF5374012C09F6EE009D39DF /* ScrollingImageView.swift in Sources */,
+				DF4AA9992C09EA0700AA1414 /* Utility Extensions.swift in Sources */,
 				DF6D5B6B2BF3A0FB001F35AC /* MagnifyGestureBootcamp.swift in Sources */,
+				DFFCC2DB2C09176700DAE28A /* GeometryReaderBootcamp.swift in Sources */,
 				DFCA97462BEBD5DF007C65B6 /* InitializersBootcamp.swift in Sources */,
 				DF6BDF1C2BEA7E4E003CFEDE /* FrameBootcamp3.swift in Sources */,
 				DF6BDF122BEA4101003CFEDE /* GradientsBootcamp.swift in Sources */,
@@ -340,6 +363,7 @@
 				DFBFBAA42BEA202400444846 /* ShapesBootcamp.swift in Sources */,
 				DFBFBA962BEA1FBD00444846 /* ContentView.swift in Sources */,
 				DF144F5A2BEE60740095D89B /* TimingCurvesBootcamp.swift in Sources */,
+				DF5373FF2C09F0C2009D39DF /* ImageGridView.swift in Sources */,
 				DF12E3C22BED666D0098C94D /* ExtractingBootcamp.swift in Sources */,
 				DFFAD4582BECCF3000D78829 /* ForEachBootcamp.swift in Sources */,
 				DF144F5E2BEE79550095D89B /* TransitionsBootcamp.swift in Sources */,

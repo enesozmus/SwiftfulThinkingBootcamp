@@ -103,3 +103,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Gesture, DragGesture(), .onChanged{}, .onEnded{}, .gesture(), value.translation, .scaleEffect(), .rotationEffect(), Angle, .offset()
 > - ⚙️ [ScrollViewReader](./SwiftfulThinkingBootcamp/ScrollViewReaderBootcamp.swift)
 >  > ScrollViewReader, proxy, Namespace, .scrollTo(), .id() 
+> - ⚙️ [GeometryReader](./SwiftfulThinkingBootcamp/GeometryReader)
+>  > Deeper Understanding
