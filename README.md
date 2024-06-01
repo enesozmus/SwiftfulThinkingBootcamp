@@ -107,3 +107,7 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Deeper Understanding
 > - ⚙️ [Multiple Sheets](./SwiftfulThinkingBootcamp/MultipleSheetsBootcamp.swift)
 >  > .sheet(isPresented:content:), .sheet(item:content:)
+> - ⚙️ [Mask](./SwiftfulThinkingBootcamp/MaskBootcamp.swift)
+>  > Creating a 5-star rating button by using GeometryReader and .mask()
+> - ⚙️ [Sound Effects](./SwiftfulThinkingBootcamp/Sounds/SoundEffectsBootcamp.swift)
+>  > AVKit Framework

@@ -47,6 +47,9 @@
 		DF6D5B672BF388D6001F35AC /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6D5B662BF388D6001F35AC /* TapGestureBootcamp.swift */; };
 		DF6D5B692BF39294001F35AC /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6D5B682BF39294001F35AC /* LongPressGestureBootcamp.swift */; };
 		DF6D5B6B2BF3A0FB001F35AC /* MagnifyGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6D5B6A2BF3A0FB001F35AC /* MagnifyGestureBootcamp.swift */; };
+		DF6F5FCE2C0B15EC0036F669 /* SoundEffectsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6F5FCD2C0B15EC0036F669 /* SoundEffectsBootcamp.swift */; };
+		DF6F5FD12C0B16030036F669 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DF6F5FCF2C0B16030036F669 /* tada.mp3 */; };
+		DF6F5FD22C0B16030036F669 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DF6F5FD02C0B16030036F669 /* badum.mp3 */; };
 		DF8A76D22BF3B3F3003E07E0 /* RotateGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8A76D12BF3B3F3003E07E0 /* RotateGestureBootcamp.swift */; };
 		DF8A76D42BF3BAD3003E07E0 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8A76D32BF3BAD3003E07E0 /* DragGestureBootcamp.swift */; };
 		DF8A76D62BF3CFBB003E07E0 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8A76D52BF3CFBB003E07E0 /* DragGestureBootcamp2.swift */; };
@@ -58,6 +61,7 @@
 		DF8CCF372BF0115C00320366 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8CCF362BF0115C00320366 /* TextEditorBootcamp.swift */; };
 		DF8CCF392BF0166700320366 /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8CCF382BF0166700320366 /* ToggleBootcamp.swift */; };
 		DF980E292C0A02C300D3D763 /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF980E282C0A02C300D3D763 /* MultipleSheetsBootcamp.swift */; };
+		DF980E2B2C0A11D900D3D763 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF980E2A2C0A11D900D3D763 /* MaskBootcamp.swift */; };
 		DFA23BD32BED143500C758EB /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA23BD22BED143500C758EB /* ButtonsBootcamp.swift */; };
 		DFBFBA942BEA1FBD00444846 /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBFBA932BEA1FBD00444846 /* SwiftfulThinkingBootcampApp.swift */; };
 		DFBFBA962BEA1FBD00444846 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBFBA952BEA1FBD00444846 /* ContentView.swift */; };
@@ -115,6 +119,9 @@
 		DF6D5B662BF388D6001F35AC /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
 		DF6D5B682BF39294001F35AC /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		DF6D5B6A2BF3A0FB001F35AC /* MagnifyGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnifyGestureBootcamp.swift; sourceTree = "<group>"; };
+		DF6F5FCD2C0B15EC0036F669 /* SoundEffectsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundEffectsBootcamp.swift; sourceTree = "<group>"; };
+		DF6F5FCF2C0B16030036F669 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
+		DF6F5FD02C0B16030036F669 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 		DF8A76D12BF3B3F3003E07E0 /* RotateGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateGestureBootcamp.swift; sourceTree = "<group>"; };
 		DF8A76D32BF3BAD3003E07E0 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		DF8A76D52BF3CFBB003E07E0 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
@@ -126,6 +133,7 @@
 		DF8CCF362BF0115C00320366 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 		DF8CCF382BF0166700320366 /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 		DF980E282C0A02C300D3D763 /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
+		DF980E2A2C0A11D900D3D763 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 		DFA23BD22BED143500C758EB /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 		DFBFBA902BEA1FBD00444846 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFBFBA932BEA1FBD00444846 /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
@@ -162,6 +170,16 @@
 				DF5374002C09F6EE009D39DF /* ScrollingImageView.swift */,
 			);
 			path = GeometryReader;
+			sourceTree = "<group>";
+		};
+		DF6F5FCC2C0B15B70036F669 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				DF6F5FCD2C0B15EC0036F669 /* SoundEffectsBootcamp.swift */,
+				DF6F5FD02C0B16030036F669 /* badum.mp3 */,
+				DF6F5FCF2C0B16030036F669 /* tada.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 		DFBFBA872BEA1FBD00444846 = {
@@ -217,6 +235,7 @@
 				DF1BE65F2BEF95E10049FF88 /* ListBootcamp.swift */,
 				DF6D5B682BF39294001F35AC /* LongPressGestureBootcamp.swift */,
 				DF6D5B6A2BF3A0FB001F35AC /* MagnifyGestureBootcamp.swift */,
+				DF980E2A2C0A11D900D3D763 /* MaskBootcamp.swift */,
 				DF980E282C0A02C300D3D763 /* MultipleSheetsBootcamp.swift */,
 				DF1BE65D2BEF83A70049FF88 /* NavigationBootcamp.swift */,
 				DF0FDA662BF1662B00FAD48F /* OnAppearAndOnDisappearBootcamp.swift */,
@@ -231,6 +250,7 @@
 				DFBFBAA32BEA202400444846 /* ShapesBootcamp.swift */,
 				DF0FE9AE2BEEA6F900805698 /* SheetsBootcamp.swift */,
 				DF0FDA5E2BF1149500FAD48F /* SliderBootcamp.swift */,
+				DF6F5FCC2C0B15B70036F669 /* Sounds */,
 				DF0F4D812BEBAF890022AE85 /* SpacerBootcamp.swift */,
 				DF0F4D7C2BEB75AB0022AE85 /* StacksBootcamp.swift */,
 				DF12E3BF2BED57F50098C94D /* StateBootcamp.swift */,
@@ -323,8 +343,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF6F5FD22C0B16030036F669 /* badum.mp3 in Resources */,
 				DFBFBA9B2BEA1FBE00444846 /* Preview Assets.xcassets in Resources */,
 				DFBFBA982BEA1FBE00444846 /* Assets.xcassets in Resources */,
+				DF6F5FD12C0B16030036F669 /* tada.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,6 +364,7 @@
 				DF6D5B6B2BF3A0FB001F35AC /* MagnifyGestureBootcamp.swift in Sources */,
 				DFFCC2DB2C09176700DAE28A /* GeometryReaderBootcamp.swift in Sources */,
 				DFCA97462BEBD5DF007C65B6 /* InitializersBootcamp.swift in Sources */,
+				DF980E2B2C0A11D900D3D763 /* MaskBootcamp.swift in Sources */,
 				DF6BDF1C2BEA7E4E003CFEDE /* FrameBootcamp3.swift in Sources */,
 				DF6BDF122BEA4101003CFEDE /* GradientsBootcamp.swift in Sources */,
 				DFFCC2D92C09104C00DAE28A /* ScrollViewReaderBootcamp.swift in Sources */,
@@ -385,6 +408,7 @@
 				DFBFBAA22BEA1FE000444846 /* TextBootcamp.swift in Sources */,
 				DF8CCF2D2BEFDA1400320366 /* AlertBootcamp.swift in Sources */,
 				DF51FD2D2BF2BC060030B182 /* IfLetGuardBootcamp.swift in Sources */,
+				DF6F5FCE2C0B15EC0036F669 /* SoundEffectsBootcamp.swift in Sources */,
 				DF8CCF392BF0166700320366 /* ToggleBootcamp.swift in Sources */,
 				DF1BE65E2BEF83A70049FF88 /* NavigationBootcamp.swift in Sources */,
 				DF12E3C62BED76890098C94D /* BindingBootcamp.swift in Sources */,
