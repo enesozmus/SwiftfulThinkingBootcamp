@@ -111,3 +111,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Creating a 5-star rating button by using GeometryReader and .mask()
 > - ⚙️ [Sound Effects](./SwiftfulThinkingBootcamp/Sounds/SoundEffectsBootcamp.swift)
 >  > AVKit Framework
+> - ⚙️ [Haptics](./SwiftfulThinkingBootcamp/HapticsBootcamp.swift)
+>  > Good vibrations!
