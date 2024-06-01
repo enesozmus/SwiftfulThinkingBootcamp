@@ -113,3 +113,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > AVKit Framework
 > - ⚙️ [Haptics](./SwiftfulThinkingBootcamp/HapticsBootcamp.swift)
 >  > Good vibrations!
+> - ⚙️ [Local Notifications](./SwiftfulThinkingBootcamp/LocalNotificationsBootcamp.swift)
+>  > UserNotifications and CoreLocation Frameworks
