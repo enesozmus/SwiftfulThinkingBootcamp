@@ -117,3 +117,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > UserNotifications and CoreLocation Frameworks
 > - ⚙️ [Alignment Guides](./SwiftfulThinkingBootcamp/AlignmentGuides)
 >  > Deeper Understanding
+> - ⚙️ [VisualEffect](./SwiftfulThinkingBootcamp/VisualEffectBootcamp.swift)
+>  > .visualEffect { content, geometry in ...content }
