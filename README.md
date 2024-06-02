@@ -119,3 +119,5 @@ Kaynak/Reference: [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking/
 >  > Deeper Understanding
 > - ⚙️ [VisualEffect](./SwiftfulThinkingBootcamp/VisualEffectBootcamp.swift)
 >  > .visualEffect { content, geometry in ...content }
+> - ⚙️ [Paging ScrollView](./SwiftfulThinkingBootcamp/PagingScrollViewBootcamp.swift)
+>  > .scrollTargetLayout, .scrollTargetBehavior, .scrollBounceBehavior, .scrollPosition, .containerRelativeFrame, .scrollTransition
